@@ -1,0 +1,13 @@
+
+
+{
+  "name": "font-widget",
+  "id": "widget-id-6Hk084S0zu",
+  "api": "1.0.0",
+  "editorType": ["figma","figjam"],
+  
+  "containsWidget": true,
+  "main": "dist/code.js",
+  "widgetApi": "1.0.0",
+  "permissions": []
+}

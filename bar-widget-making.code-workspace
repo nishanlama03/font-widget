@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../voter-widget"
+		},
+		{
+			"path": "../Basic-widget"
+		}
+	],
+	"settings": {}
+}
